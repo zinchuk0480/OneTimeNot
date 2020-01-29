@@ -1,0 +1,5 @@
+[user]
+	name = Andrew
+	email = zinchuk0480@gmail.com
+[core]
+	excludesfile = /home/andrew/.proc/

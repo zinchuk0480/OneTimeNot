@@ -1,0 +1,31 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/home/andrew/venv/share/code/project1
+1=/
+2=/home/andrew
+
+[Dir Hist New Left Panel]
+0=/home/andrew/.cache
+1=/home/andrew/.config
+2=/home/andrew/.gnupg
+3=/usr/share
+4=/var/www
+5=/etc/python3.7
+6=/home/andrew/venv/share/python-wheels
+7=/home/andrew/venv/bin
+8=/home/andrew/venv/lib
+9=/home/andrew/venv/share/code/project1
+10=/etc
+11=/dev
+12=/var
+13=/usr
+14=/home/andrew/venv/share/code
+15=/home/andrew/venv/share
+16=/home/andrew/venv/local
+17=/home/andrew/venv
+18=/proc
+19=/home/andrew
+20=/home
+21=/
